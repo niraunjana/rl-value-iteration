@@ -21,7 +21,7 @@ The agent can take one of four actions at each state: Left, Down, Right, or Up. 
 
 ## VALUE ITERATION ALGORITHM
 
-![image](https://github.com/user-attachments/assets/f9503116-00e7-4b7b-b60c-0316e8e4f372)
+![image](https://github.com/user-attachments/assets/c09617f6-e383-49eb-8fc8-8c881f2c8664)
 
 
 ## VALUE ITERATION FUNCTION
